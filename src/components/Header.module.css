@@ -1,0 +1,73 @@
+#header {
+  background-image: url("https://img.freepik.com/premium-photo/pizza-cardboard-box-dark-chalkboard-top-view-pizza-package-pizza-delivery_137441-4376.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.nav {
+  position: absolute;
+  top: 0;
+  z-index: 2;
+}
+
+.nav img {
+  width: auto;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.menuIcon {
+  display: none;
+  cursor: pointer;
+}
+
+.dropdownMenu {
+  display: flex;
+}
+
+.nav a:hover {
+  color: var(--text-light);
+}
+
+.li {
+  color: var(--text-secondary);
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.h1 {
+  z-index: 1;
+  color: var(--text-secondary);
+}
+
+@media (max-width: 768px) {
+  .nav img {
+    height: 45px;
+  }
+
+  .dropdownMenu {
+    display: none;
+  }
+
+  .menuIcon {
+    display: block;
+  }
+
+  .displayMobileMenu {
+    display: block;
+    width: 100%;
+
+    position: absolute;
+    top: 77px;
+    left: 0;
+
+    background-color: url("https://img.freepik.com/premium-photo/pizza-cardboard-box-dark-chalkboard-top-view-pizza-package-pizza-delivery_137441-4376.jpg");
+  }
+}

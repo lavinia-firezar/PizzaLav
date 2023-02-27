@@ -1,0 +1,37 @@
+.name {
+  color: var(--text-light);
+}
+
+.description {
+  color: var(--bg-secondary);
+}
+
+.buttonFav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+
+#alert,
+#alertCart {
+  position: fixed;
+  top: 15px;
+  left: 45%;
+  transform: translateX(-50%);
+  z-index: 2;
+}
+
+@media (max-width: 576px) {
+  #alert,
+  .alertCart {
+    width: calc(100vw - 80px);
+  }
+}

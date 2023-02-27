@@ -1,0 +1,53 @@
+/* Adaugam variabile globale: */
+:root {
+  --text-secondary: #ffffff;
+  --text-light: #7a5454;
+  --bg-secondary: #2c452c;
+}
+
+a {
+  /* display: block; */
+  text-decoration: none;
+}
+
+/* Resetam proprietati default: */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+/* Customizam Bootstrap: */
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  background-color: #2bb686;
+  border-color: #2bb686;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.text-light {
+  color: #eaeaea !important;
+}
+
+.text-dark {
+  color: #2b2922 !important;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: bold;
+}
+
+footer {
+  background-color: var(--bg-secondary);
+}

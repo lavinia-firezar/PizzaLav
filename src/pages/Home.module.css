@@ -1,0 +1,45 @@
+section {
+  margin: 40px;
+}
+
+h2,
+.link {
+  color: var(--text-light);
+}
+
+.link:hover,
+h5 {
+  color: var(--bg-secondary);
+}
+
+.section1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  height: 300px;
+  margin: 40px;
+}
+
+.image2 {
+  height: 400px;
+}
+
+#section2 {
+  font-size: 18px;
+  font-style: italic;
+  color: var(--bg-secondary);
+}
+
+@media (max-width: 768px) {
+  .section1 {
+    display: block;
+  }
+
+  .imageHome {
+    width: 400px;
+    height: auto;
+  }
+}

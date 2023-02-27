@@ -1,0 +1,177 @@
+[
+  {
+    "id": 0,
+    "name": "Margherita",
+    "description": "Pizza Margherita este o pizza tipică napolitană, făcută cu roșii San Marzano, brânză mozzarella, busuioc proaspăt, sare și ulei de măsline",
+    "toppings": [
+      "mozarella",
+      "crushed tomatoes",
+      "basil",
+      "extra virgin olive oil"
+    ],
+    "text": "Istoria pizzei Margherita incepe in jurul anului 1889. Creatorul ei ar fi fost Raffaele Esposito de la Pizzeria Brandi din Napoli. Se spune ca acesta a preparat-o in onoarea Reginei Margherita de Savoia, care se afla intr-o vizita oficiala alaturi de sotul sau, Regele Umberto I. De aici si numele „Margherita”. Despre mozzarella si fior din latte, ambele sunt branzeturi efilate (care se desfac in fasii), diferenta fiind ca mozzarella este din lapte de bivolita iar fior di latte din lapte de vaca. La noi se gaseste mozzarella proaspata care se comercializeaza sub forma de bile (in saramura) si batoane de mozzarella cu textura mai densa, cu mult mai putina umiditate. Busuiocul proaspat se gaseste in ghiveci (in supermarketuri).despre mozzarella si fior din latte. Ambele sunt branzeturi efilate (care se desfac in fasii), diferenta fiind ca mozzarella este din lapte de bivolita iar fior di latte din lapte de vaca. La noi se gaseste mozzarella proaspata care se comercializeaza sub forma de bile (in saramura) si batoane de mozzarella cu textura mai densa, cu mult mai putina umiditate. Busuiocul proaspat se gaseste in ghiveci (in supermarketuri).",
+    "image": "http://st.depositphotos.com/2252541/2379/i/450/depositphotos_23796179-Pizza-Margherita.jpg",
+    "imageDetails1": "http://st.depositphotos.com/2640119/3774/i/450/depositphotos_37746755-Margherita-Pizza.jpg",
+    "imageDetails2": "https://st4.depositphotos.com/23897034/29818/i/450/depositphotos_298186266-stock-photo-pizza-margherita-with-yellow-red.jpg",
+    "price": 32
+  },
+  {
+    "id": 1,
+    "name": "Pizza Fresh",
+    "description": "Pe lângă mozzarella obișnuită care este nelipsită dintr-o pizza delicioasă, noua pizza vine la pachet cu un strat de brânză Cheddar care va duce întreaga experiență la un alt nivel al cremozității. ",
+    "toppings": [
+      "mozarella",
+      "mixed peppers",
+      "crushed tomatoes",
+      "basil",
+      "aubergine",
+      "extra virgin olive oil"
+    ],
+    "text": "Vara ne dorim să încercăm mâncăruri cât mai fresh, care să ne energizeze în zilele toride, însă asta nu înseamnă că ar trebui să scoatem pizza din meniurile de vară. Pizza se savurează în orice moment, în orice anotimp – pentru că nu ai cum să-i reziști. De-a lungul timpului rețetele s-au tot schimbat, au călătorit în tot mai multe țări, pe continente diferite, i s-au atribuit arome noi, ingrediente exotice, însă savoarea a rămas aceiași. Din acest motiv, astăzi putem face și recomandări de vară, iar pizza să rămână preferata ta și în zilele mult prea călduroase. Cele două tipuri de brânză se topesc și se amestecă într-un strat delicios care îmbină perfect legumele și puiul creând o combinație numai bună de pus pe blat. ",
+    "image": "https://st4.depositphotos.com/22536408/24081/i/450/depositphotos_240811640-stock-photo-pizza-fresh-tomatoes-arugula-mozzarella.jpg",
+    "imageDetails1": "https://st3.depositphotos.com/5653638/19282/i/450/depositphotos_192828470-stock-photo-indian-paneer-pizza-fresh-cottage.jpg",
+    "imageDetails2": "https://s3.envato.com/files/321573562/pf-s64-tomato-mozarella-pizza-with-fresh-basil-1.jpg",
+    "price": 26
+  },
+  {
+    "id": 2,
+    "name": "Quattro Formaggi",
+    "description": "Pizza Quattro Formaggi este acoperită cu o combinație de patru feluri de brânză, de obicei topite împreună, cu sau fără sos de roșii.",
+    "toppings": [
+      "crushed tomatoes",
+      "garlic",
+      "oregano",
+      "basil",
+      "extra virgin olive oil"
+    ],
+    "text": "Pizza Quattro Formaggi este unul dintre preparatele clasice ale bucătăriei italiene, adorată de cei care iubesc brânza de orice fel. Singurul fel de brânză care este obligatoriu este mozzarella. Restul ține de preferințe. Mozzarella este folosită pentru gust, dar și pentru faptul că menține umiditatea în timpul coacerii. În plus, protejează restul brânzeturilor de căldura prea puternică a cuptorului. Este important să alegi brânzeturi care se topesc ușor precum ricotta, pecorino, stracchino, gorgonzola, Gruyère sau alte brânzeturi potrivite produse în afara Italiei. Regula este să alegi brânzeturi grase sau semi-grase, cu gusturi și arome diferite. Astfel se poate pune un fel de brânză maturat sau cu mucegai, o brânză moale sau cremoasă și un fel tare.",
+    "image": "https://st2.depositphotos.com/35089956/46223/i/450/depositphotos_462231026-stock-photo-yummy-pizza-quattro-formaggi-wooden.jpg",
+    "imageDetails1": "https://st.depositphotos.com/11590378/60696/i/450/depositphotos_606964296-stock-photo-pizza-quattro-formaggi-wooden-board.jpg",
+    "imageDetails2": "https://st5.depositphotos.com/11590378/63257/i/450/depositphotos_632576502-stock-photo-pizza-quattro-formaggi-wooden-board.jpg",
+    "price": 35
+  },
+  {
+    "id": 3,
+    "name": "Napoletana",
+    "description": "Cunoscută și sub numele de pizza în stil Napoli, este un stil de pizza făcută cu roșii și brânză mozzarella. ",
+    "toppings": [
+      "mozarella",
+      "crushed tomatoes",
+      "anchovies",
+      "black olives",
+      "capers",
+      "extra virgin olive oil"
+    ],
+    "text": "Pizza napoletană este un tip de pizza originară din orașul italian Napoli, care se prepară cu ingrediente simple și proaspete: un aluat de bază, roșii, brânză mozzarella, busuioc proaspăt și ulei de măsline. Niciun alt topping sofisticat. Una dintre definițiile caracteristice ale pizzei napoletane este că ea înglobează adesea mai mult sos decât brânză. Acest fapt lasă umed miezul aluatului, rezultatul fiind că felia de pizza nu stă țeapănă, precum la pizza clasică. Din acest motiv, pizzele napoletane sunt în general de dimensiuni mici (circa 25-30 cm). O altă caracteristică este aceea că pizza napoletană se coace la temperaturi foarte ridicate, de 420-480 grade Celsius, dar nu mai mult de 90 de secunde.",
+    "image": "https://st3.depositphotos.com/11606716/31688/i/450/depositphotos_316884300-stock-photo-pizza-napolitana-dividida-lombinho-manjerico.jpg",
+    "imageDetails1": "http://st2.depositphotos.com/3221013/9567/i/450/depositphotos_95678074-Pizza-Napoletana-Margherita.jpg",
+    "imageDetails2": "https://0.s3.envato.com/files/40861214/Pizza-1-IMG_6835.jpg",
+    "price": 29
+  },
+  {
+    "id": 4,
+    "name": "Quattro Stagioni",
+    "description": "Pizza Quattro Stagioni sau 4 anotimpuri. Unii dintre voi ii mai spun si Pizza Quattro Stagione.",
+    "toppings": [
+      "mozarella",
+      "crushed tomatoes",
+      "salami",
+      "piccante",
+      "red chillies",
+      "extra virgin olive oil"
+    ],
+    "text": "Pizza Quattro Stagioni e o pizza care are câte puțin din fiecare, că să simți toate gusturile, dar nu exagerează cu nimic. Așa că dacă dai comandă de pizza Quattro Stagioni cu livrare la domiciliu, o să mănânci o pizza echilibrată, unde ai și niște brânzică, și niște sosuleț, și niște cărniță, și niște legume. Un echilibru în fiecare mușcătura, cum s-ar zice. In limba italiana quattro stagioni inseamna 4 anotimpuri. De aceea pe pizza Quattro Stagioni veti gasi 4 sectiuni, cu ingrediente diferite pe fiecare sectiune, care corespunde unui anotimp. Repartizarea clasica, de provenienta italiana, este cea in care portiunea cu anghinare (carciofi) reprezinta primavara, sectiunea cu rosii si busuioc vara, ciupercile sunt reprezentative pentru toamna, in timp ce sunca, salamul si maslinele reprezinta iarna.",
+    "image": "https://st4.depositphotos.com/1005682/23806/i/450/depositphotos_238066142-stock-photo-delicious-pizza-quattro-stagioni-wooden.jpg",
+    "imageDetails1": "http://st2.depositphotos.com/2346379/8964/i/450/depositphotos_89648314-Pizza-Quattro-stagioni-with-salami-ham-olives-and-mushrooms.jpg",
+    "imageDetails2": "https://st2.depositphotos.com/5705508/10459/i/450/depositphotos_104599096-stock-photo-quattro-stagioni-pizza-and-beer.jpg",
+    "price": 38
+  },
+  {
+    "id": 5,
+    "name": "Diavola",
+    "description": "O pizza cu salam picant şi condimente iuţi, care este destinată iubitorilor de preparate super picante.",
+    "toppings": [
+      "parmegianno",
+      "piccante",
+      "red chillies",
+      "extra virgin olive oil"
+    ],
+    "text": "Dacă dai comandă de pizza Diavola, înseamnă că vrei să mănânci o pizza cu mozzarella și niște cărniță, și că nu prea ai chef de legume. Sunt legumele bune și sănătoase, dar uneori îți cere sufletul să mănânci o pizza cu carne și brânză și să pui sos peste şi e gata pentru a fi savurată. Prima dată, puntem pe blat sosul făcut de noi din roșii proaspete, și îl întindem așa bine peste tot, să fie uniform. Peste sosul de roșii, punem o păturică de mozzarella, că mozzarella e esențială când e vorba de pizza. Peste mozzarella, punem salam chorizo și cârnați afumați, tăiate feliuțe, așa, frumos. Și la sfârșit punem și niște peperoncino, că să fie puțin picant.",
+    "image": "https://st4.depositphotos.com/1590501/26545/i/450/depositphotos_265450246-stock-photo-pizza-salami-diavola-with-red.jpg",
+    "imageDetails1": "https://st4.depositphotos.com/1590501/26545/i/450/depositphotos_265450056-stock-photo-pizza-salami-diavola-with-red.jpg",
+    "imageDetails2": "https://st2.depositphotos.com/1590501/42715/i/450/depositphotos_427153680-stock-photo-pizza-diavola-traditional-italian-meal.jpg",
+    "price": 36
+  },
+  {
+    "id": 6,
+    "name": "Calzone",
+    "description": "Pizza Calzone este o specialitate italiana, practic o pizza impaturita in forma de semicerc, avand la baza aluat de pizza umplut cu sos de rosii, branzeturi, sunca, salam si anumite legume",
+    "toppings": [
+      "parmegianno",
+      "ham",
+      "olives",
+      "onions",
+      "extra virgin olive oil"
+    ],
+    "text": "Pizza Calzone este una dintre cele mai iubite pizza. Cu Sunca, mozzarella si sos de rosii, de obicei are forma unui corn. Pizza calzone este, practic, o pizza impachetata. Si la fel ca si pizza, calzone isi are originea in Napoli. Se pare ca oamenii doreau o modalitate mai usoara de a transporta pizza, asa ca au venit cu ideea de a o plia. O idee extraordinara! In ceea ce priveste ingredientele, nu exista o mare diferenta intre pizza si calzone. Un calzone tipic este facut din aluat sarat care este copt la cuptor. Inauntrul aluatului veti gasi topping-uri clasice pentru pizza: rosii, branză, ciuperci, ceapă, optiunile fiind practic nelimitate.",
+    "image": "http://st2.depositphotos.com/1794701/10874/i/450/depositphotos_108748834-Pizza-calzone-with-ham-and-cheese.jpg",
+    "imageDetails1": "http://st2.depositphotos.com/5518334/11681/i/450/depositphotos_116815516-Calzone-pizza-with-ham-mushrooms-and-corn.jpg",
+    "imageDetails2": "http://st.depositphotos.com/1744806/4678/i/450/depositphotos_46782667-Calzone.jpg",
+    "price": 38
+  },
+  {
+    "id": 7,
+    "name": "Capricioasa",
+    "description": "Pizza capricciosa este un stil de pizza din bucătăria italiană preparată cu brânză mozzarella, șuncă italiană la cuptor, ciuperci, anghinare și roșii.",
+    "toppings": ["parmegianno", "mozarella"],
+    "text": "Pizza Capriciosa este una generoasă în ingrediente, conține carne, mozzarella și legume, e una din metodele cele mai la îndemână să strecurăm legume sănătoase pentru piticii mofturoși. Pizza Capriciosa, sortiment de pizza cu un topping ce cuprinde roșii, mozzarella, șuncă, ciuperci, anghinare și măsline. Este un aluat extrem de bun, singurul lui dezavantaj este că durează până este gata.",
+    "image": "https://st3.depositphotos.com/4590583/19376/i/450/depositphotos_193761976-stock-photo-pizza-capricciosa-mozzarella-ham-mushrooms.jpg",
+    "imageDetails1": "https://st3.depositphotos.com/28215878/34542/i/450/depositphotos_345426422-stock-photo-pizza-capricciosa-on-the-table.jpg",
+    "imageDetails2": "https://img.freepik.com/premium-photo/capricciosa-pizza-with-olives-pepperoni-mushrooms_219193-2237.jpg",
+    "price": 27
+  },
+  {
+    "id": 8,
+    "name": "Marinara",
+    "description": "Pizza Marinara, cunoscută și sub numele de pizza alla marinara, este un stil de pizza napolitană din bucătăria italiană, asezonată doar cu sos de roșii, ulei de măsline extravirgin, oregano și usturoi.",
+    "toppings": ["parmegianno", "mozarella"],
+    "text": " Pizza marinara, o explozie de gust obținută din numai câteva ingrediente. Asta ar spune orice iubitor de pizza, cu siguranță. Și este adevărat. Pizza marinara este un preparat simplu, în care roșiile zdrobite și feliile delicioase de anșoa te fac să te lingi pe degete de fiecare dată și să mai ceri o porție. Sau o felie, în funcție de cât de foame îți e.Pizza marinara este unul dintre cele mai simple tipuri de pizza ,extrem de gustoasa si aromata.Contine ingrediente putine ,dintre cele mai comune  cum sunt usturoiul si rosiile ,asadar ,daca n-ati facut-o pana acum,e momentul s-o incercati.",
+    "image": "https://st4.depositphotos.com/1744806/30469/i/450/depositphotos_304693096-stock-photo-pizza-marinara-with-anchovy-isolated.jpg",
+    "imageDetails1": "https://c.stocksy.com/a/SoE400/z0/1010256.jpg",
+    "imageDetails2": "https://st4.depositphotos.com/1000230/28669/i/450/depositphotos_286692106-stock-photo-female-hand-takes-slice-seafood.jpg",
+    "price": 24
+  },
+  {
+    "id": 9,
+    "name": "Hawaiana",
+    "description": "Pizza Hawaiiană este un tip de pizza destul de popular cu ananas, șuncă și sos de roșii.",
+    "toppings": ["parmegianno", "mozarella"],
+    "text": "Pizza Hawaiană e pizza aia care are bucățele de ananas pe ea, un strat de mozzarella, să se întindă frumușel când muști din fiecare felie. Și îți dai seama că punem și sos făcut din roșii proaspete, că altfel nu se poate, felii de șuncă, și porumb. . Și după ce terminăm de pus ingredientele pe el, îl băgăm frumos la cuptor, ca să se transforme din blat cu ingrediente pe el în pizza bună și caldă, care miroase frumos și te face să abia aștepți să iei prima mușcătură.",
+    "image": "https://img.freepik.com/premium-photo/ham-crab-stick-pizza-hawaiian-pizza_1339-141037.jpg",
+    "imageDetails1": "https://st3.depositphotos.com/1875497/12874/i/450/depositphotos_128742126-stock-photo-hawaiian-pizza-on-wooden-plate.jpg",
+    "imageDetails2": "https://st4.depositphotos.com/8687452/27860/i/450/depositphotos_278605298-stock-photo-hawaiian-pizza-on-wood-tray.jpg",
+    "price": 26
+  },
+  {
+    "id": 10,
+    "name": "Vegetariană",
+    "description": "Pizza Vegetariana e o pizza cu legume și mozzarella.",
+    "toppings": ["parmegianno", "mozarella"],
+    "text": "Blatul este dintr-un amestec de faina saraca in carbohidrati, deci rezultatul este o pizza la fel de gustoasa, dar mai usoara.  Aceasta pizza vegana este sanatoasa si bogata, iar combinatia dintre legumele zemoase si blatul crocant este excelenta! Aluatul fara gluten este gata in 5 minute iar pizza iese crocanta la exterior si pufoasa la interior. Deasupra adaugam pesto, masline aromate cu usturoi, branza vegana si verdeturi, si obtinem o pizza foarte gustoasa si sanatoasa!",
+    "image": "http://static8.depositphotos.com/1026991/1038/i/450/depositphotos_10385017-Vegetarian-pizza.jpg",
+    "imageDetails1": "https://st4.depositphotos.com/1388939/20699/i/450/depositphotos_206995210-stock-photo-healthy-vegetarian-pizza-aubergine-pizza.jpg",
+    "imageDetails2": "https://st3.depositphotos.com/22783454/37242/i/450/depositphotos_372420428-stock-photo-healthy-vegetarian-pizza-mushrooms-vegetables.jpg",
+    "price": 25
+  },
+  {
+    "id": 11,
+    "name": "Pepperoni",
+    "description": "Pepperoni este o pizza ușor picantă care este bună și pentru cei care mănâncă mai iute și mai condimentat de obicei. ",
+    "toppings": ["parmegianno", "mozarella"],
+    "text": "Dacă stai așa puțin și te uiți la ea o să observi că este acea pizza pe care o desenează oricine atunci când este nevoie să deseneze o pizza, că oricine desenează o pizza face un cerc sau un triunghi, apoi o umple cu salam roșu. Care este de fapt acest pepperoni de pe pizza Pepperoni Clasic. Nu este ceva foarte complicat, dar este ceva foarte bun – în afară de salam punem pe ea doar un sos de roșii delicios și niște brânză mozzarella, pentru că așa ceva nu poate lipsi de pe pizza. Însă când vine vorba de salam, punem de două ori salam pepperoni, mai mult decât punem pe oricare altă pizza, ca să se bucure sufletul omului pentru care pizza este esențial să aibă salam.",
+    "image": "http://st2.depositphotos.com/5260901/7748/i/450/depositphotos_77489970-Hot-cheese-deluxe-supreme-pizza-on-a-table-restaurant-style-cutting-board-hearty-meal.jpg",
+    "imageDetails1": "https://img.freepik.com/premium-photo/salami-pizza-pepperoni-fast-food-takeaway-snack_88242-9230.jpg",
+    "imageDetails2": "https://img.freepik.com/premium-photo/mixed-pizza-pepperoni-cheddar-tomatoes-peppers-olives_659681-395.jpg",
+    "price": 30
+  }
+]
