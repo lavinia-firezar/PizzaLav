@@ -53,7 +53,7 @@ function PizzaCard(props) {
         </Alert>
       )}
       <Card
-        className={` h-100 d-flex flex-column justify-content-between align-items-center`}
+        className={` h-150 d-flex flex-column justify-content-between align-items-center`}
       >
         <Link to={`/data/${id}`}>
           <Card.Img variant="top" src={image} />
@@ -79,7 +79,7 @@ function PizzaCard(props) {
 
           <Button
             variant="light"
-            className={styles.buttonFav}
+            id={styles.buttonFav}
             onClick={() => {
               handleAddToFavorite({
                 id: id,

@@ -1,12 +1,18 @@
 import { useContext } from "react";
 import { Button, Card, Col, Container, Row } from "react-bootstrap";
 import Layout from "../components/Layout";
+import PaypalCheckoutButton from "../components/PaypalCheckoutButton";
 import { removeFromCart } from "../store/AddCart/actions";
 import { CartContext } from "../store/AddCart/context";
 import styles from "./CartPage.module.css";
 
 function CartPage() {
   const { cartState, cartDispatch } = useContext(CartContext);
+  const sumPriceProducts = cartState.productsCart.reduce(
+    (sum, product) => sum + product.pricefinal,
+    0
+  );
+  const euroPriceProducts = parseFloat(sumPriceProducts / 4.93).toFixed(2);
 
   function handleRemoveFromCart(productId) {
     const actionResult = removeFromCart(productId);
@@ -45,7 +51,7 @@ function CartPage() {
                         <Button
                           variant="light"
                           onClick={() => handleRemoveFromCart(product.id)}
-                          className={styles.buttonCart}
+                          id={styles.buttonCart}
                         >
                           <span className="material-icons text-success">
                             close
@@ -57,17 +63,17 @@ function CartPage() {
                 );
               })
             )}
+            <div>
+              <h2>Suma totală este de: {sumPriceProducts} RON</h2>
+              <h3>
+                Cumpără acum
+                <span className="material-icons text-success">
+                  keyboard_double_arrow_down
+                </span>
+              </h3>
+              <PaypalCheckoutButton priceProduct={euroPriceProducts} />
+            </div>
           </Row>
-          <div>
-            <h2>
-              Suma totală este de:{" "}
-              {cartState.productsCart.reduce(
-                (sum, product) => sum + product.pricefinal,
-                0
-              )}{" "}
-              RON
-            </h2>
-          </div>
         </Container>
       </section>
     </Layout>

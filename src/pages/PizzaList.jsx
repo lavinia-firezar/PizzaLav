@@ -14,7 +14,6 @@ function PizzaList(props) {
               image={product.image}
               description={product.description}
               price={product.price}
-              // addButtonFavorite={product.addButtonFavorite}
             />
           </Col>
         ))}
